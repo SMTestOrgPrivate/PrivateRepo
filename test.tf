@@ -2,12 +2,12 @@
 root_folder_id = "233526418605"
 
 folder_map = {
-  "ide" = ["mgmt-ide", "eplus-ide", "dp-ide", "sec-ide", "ap-ide", "vbp-ide"]
+  "ide" = ["mgmt-ide", "eplus-ide", "dp-ide", "sec-ide", "ap-ide", "vbp-ide", "Tes-TEST"]
   "tst" = ["mgmt-tst", "sec-tst", "tfci-tst"]
-  "bld" = ["mgmt-bld", "eplus-bld", "dp-bld", "ap-bld", "vbp-bld", "sec-bld", "to-bld"]
-  "int" = ["mgmt-int", "eplus-int", "dp-int", "ap-int", "sec-int"]
-  "pre" = ["mgmt-pre", "eplus-pre", "dp-pre", "ap-pre", "sec-pre"]
-  "prd" = ["mgmt-prd", "eplus-prd", "dp-prd", "ap-prd", "sec-prd"]
+  "bld" = ["mgmt-bld", "eplus-bld", "dp-bld", "ap-bld", "vbp-bld", "sec-bld", "to-bld", "Tes-TEST"]
+  "int" = ["mgmt-int", "eplus-int", "dp-int", "ap-int", "sec-int", "Tes-TEST"]
+  "pre" = ["mgmt-pre", "eplus-pre", "dp-pre", "ap-pre", "sec-pre", "Tes-TEST"]
+  "prd" = ["mgmt-prd", "eplus-prd", "dp-prd", "ap-prd", "sec-prd", "Tes-TEST"]
   "to"  = ["bld-to", "itst-to"]
 }
 
